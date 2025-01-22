@@ -37,3 +37,16 @@
 
 ### Paso#11 Luego lo pegamos y seleccionamos el botón "Activate"
 ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso11.jpg)
+
+### Paso#12 Se da un poco de tiempo para que el progama ingrese correctamente
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso12.jpg)
+
+### Paso#13 Se ingresa "OK" en el reporte que genera el programa
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso13.jpg)
+
+### Paso#14 Instalar la solución a algunos errores del programa
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso14.jpg)
+
+### Paso#15 Se inicia correctamente el programa Neo4J
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso15.jpg)
+
