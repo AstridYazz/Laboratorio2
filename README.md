@@ -69,3 +69,12 @@
 ### Paso#6 Seleccionamos "Variables de entorno"
 ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso6REDIS.jpg)
 
+### Paso#7 Seleccionamos editar en "Path"
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso7REDIS.jpg)
+
+### Paso#8 Copiar la ruta de la carpeta que se descomprimió hace unos pasos
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso8REDIS.jpg) 
+
+### Paso#9 Se selecciona nuevo y se pega la ruta de la carpeta, posterior a esto se preciona aceptar
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso9REDIS.jpg) 
+
