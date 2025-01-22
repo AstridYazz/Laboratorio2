@@ -1,6 +1,6 @@
 # Laboratorio 2 
 
-## Instalación de la aplicación de bases de datos orientada a objetos Neo4J 
+## Instalación de la aplicación de bases de datos Neo4J 
 
 ### Paso#1 Entrar a este link (https://neo4j.com/download/) 
 
@@ -49,4 +49,23 @@
 
 ### Paso#15 Se inicia correctamente el programa Neo4J
 ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso15.jpg)
+
+
+## Instalación de la aplicación de bases de datos REDIS
+### Paso#1 Entrar a este link (https://github.com/microsoftarchive/redis/releases) 
+
+### Paso#2 Descargar el enlace llamado: Redis-x64-3.0.504.zip
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso2REDIS.jpg)
+
+### Paso#3 Ir hacia el archivo descarado 
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso3REDIS.jpg)
+
+### Paso#4 Descomprimir el archivo 
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso4REDIS.jpg)
+
+### Paso#5 Editar las variables de entorno en el panel de control
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso5REDIS.jpg)
+
+### Paso#6 Seleccionamos "Variables de entorno"
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso6REDIS.jpg)
 
